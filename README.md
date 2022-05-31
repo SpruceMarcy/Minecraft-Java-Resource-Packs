@@ -28,6 +28,12 @@ This pack updates the chicken model to much more accurately represent real life 
 >Requires: Optifine  
 >Resolution: 16x16
 
+## Improved Chickens 32x32 Leghorn Edition
+This pack updates the chicken model to much more accurately represent real life chickens. No more ducks! This edition in particular resembles Leghorns, which is presumably what the vanilla chickens are designed after.
+
+>Requires: Optifine  
+>Resolution: 32x32
+
 ## Marcy's Inventory 32x32
 This pack adds shadow markers to select inventory slots to provide assistance in inventory organisation.
 
